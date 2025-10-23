@@ -28,7 +28,7 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainer at **<your email here>**.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainer.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
